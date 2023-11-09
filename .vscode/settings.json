@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "event.h": "c",
+        "esp_event.h": "c",
+        "esp_wifi.h": "c",
+        "esp_wifi_types.h": "c"
+    },
+    "idf.adapterTargetName": "esp32",
+    "idf.openOcdConfigs": [
+        "board/esp32-bridge.cfg"
+    ],
+    "idf.port": "/dev/ttyUSB0",
+    "idf.flashType": "UART"
+}
